@@ -29,5 +29,5 @@ elif distance > 60 and distance <=80:
 elif distance > 80 :
     fare += distance * 10.50
 
-print(int(fare)+0.0)
+print(fare+0.0)
 
